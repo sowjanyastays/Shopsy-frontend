@@ -87,7 +87,7 @@ function App() {
               </Button>
 
               <LinkContainer to="/">
-                <Navbar.Brand>Shopsy</Navbar.Brand>
+                <Navbar.Brand>BlueShopsy</Navbar.Brand>
               </LinkContainer>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
@@ -277,7 +277,7 @@ function App() {
           </Container>
         </main>
         <footer>
-          <div className="text-center">All rights reserved</div>
+          <div className="text-center">© 2023-20XX, shopsy.in, Inc. or its affiliates</div>
         </footer>
       </div>
     </BrowserRouter>
